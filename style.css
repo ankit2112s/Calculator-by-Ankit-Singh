@@ -1,0 +1,50 @@
+.head{
+    border: 3px solid rgb(185, 58, 79);
+    border-radius: 110px;
+    width: 250px;
+    margin: auto;
+    background-color: rgb(157, 231, 207);
+}
+
+.scrn{
+    margin: 10px;
+    background-color: rgb(213, 220, 238);
+    border-radius: 10px;
+}
+
+.calci{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: auto;
+    font-family: cursive;
+    font-size: larger;
+    color: rgb(121, 37, 231);
+    background-color: rgb(150, 187, 220);
+}
+
+button{
+    background-color: rgb(151 151 212);
+    color: rgb(45, 6, 6);
+    font-size: larger;
+    border-color: #1600fc;
+    border-radius: 5px;
+    height: 75px;
+    width: 65px;
+}
+
+
+table{
+    margin: auto;
+    height: 250px;
+    width: 250px;
+}
+
+input{
+    background-color: #a6fea8;
+    border-color: #1600fc;
+    width: 195px;
+    height: 75px;
+    border-radius: 5px;
+    font-size: x-large;
+}
